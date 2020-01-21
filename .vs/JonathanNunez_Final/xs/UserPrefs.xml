@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EA5A9244-041B-4283-A201-5C801A8B3401}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JonathanNunez_Final/Form1.cs">
+    <Files>
+      <File FileName="JonathanNunez_Final/DVD.cs" Line="1" Column="1" />
+      <File FileName="JonathanNunez_Final/Form1.cs" Line="38" Column="60" />
+      <File FileName="JonathanNunez_Final/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="JonathanNunez_Final/Program.cs" Line="1" Column="1" />
+      <File FileName="JonathanNunez_Final/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="JonathanNunez_Final/App.config" Line="1" Column="1" />
+      <File FileName="JonathanNunez_Final/Form1.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JonathanNunez_Final" expanded="True">
+            <Node name="JonathanNunez_Final" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Form1.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.JonathanNunez__Final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

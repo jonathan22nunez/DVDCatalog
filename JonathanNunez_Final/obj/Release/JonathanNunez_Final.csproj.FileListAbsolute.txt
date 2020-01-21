@@ -1,0 +1,3 @@
+/Volumes/Documents/FullSail Courses/MobileDevelopmentAssociates/VFW/JonathanNunez_Final/JonathanNunez_Final/obj/Release/JonathanNunez_Final.Form1.resources
+/Volumes/Documents/FullSail Courses/MobileDevelopmentAssociates/VFW/JonathanNunez_Final/JonathanNunez_Final/obj/Release/JonathanNunez_Final.Properties.Resources.resources
+/Volumes/Documents/FullSail Courses/MobileDevelopmentAssociates/VFW/JonathanNunez_Final/JonathanNunez_Final/obj/Release/JonathanNunez_Final.csproj.GenerateResource.cache
